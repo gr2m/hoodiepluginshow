@@ -14,5 +14,6 @@
   ],
   "scripts": {
     "start": "node node_modules/hoodie-server/bin/start"
-  }
+  },
+  "repository": "github:gr2m/hoodiepluginshow"
 }
